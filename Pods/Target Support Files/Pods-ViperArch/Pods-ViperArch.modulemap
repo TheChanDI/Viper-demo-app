@@ -1,0 +1,6 @@
+module Pods_ViperArch {
+  umbrella header "Pods-ViperArch-umbrella.h"
+
+  export *
+  module * { export * }
+}
